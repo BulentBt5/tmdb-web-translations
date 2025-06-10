@@ -1695,9 +1695,9 @@ tr-TR:
     - Cuma
     - Cumartesi
     formats:
-      abbrev: "%-d %b %Y"
+      abbrev: "%d %b %Y"
       default: "%d/%m/%Y"
-      full_month_day: "%e %B %Y"
+      full_month_day: "%d %B %Y"
       full_month_year: "%B %Y"
       short_month_day_year: "%d %b %Y"
     month_names: '[nil, "Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]'
@@ -4242,7 +4242,7 @@ tr-TR:
       confirm_delete: Silmeyi Onayla
       delete_account: Hesabımı Sil
       page_title: Hesabımı sil
-      summary_text: "<Strong> Tehlikeli bölgeye </ strong> girdiniz! Hesabınızı silmek için, aşağıya şifrenizi girerek ve istenilenleri onaylayarak hesabınızı silebilirsiniz."
+      summary_text: "<Strong> Tehlikeli bölge</strong>ye girdiniz! Hesabınızı silmek için, aşağıya şifrenizi girerek ve istenilenleri onaylayarak hesabınızı silebilirsiniz."
     import_list:
       import_button: Yükle
       import_list: Liste Yükle
